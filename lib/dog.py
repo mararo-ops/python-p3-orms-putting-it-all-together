@@ -5,4 +5,4 @@ CURSOR = CONN.cursor()
 
 class Dog:
     
-    pass
+   
